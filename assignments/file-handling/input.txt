@@ -1,0 +1,5 @@
+hello world
+  python is fun
+
+goodbye
+learning file handling
